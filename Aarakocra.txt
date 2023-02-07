@@ -1,0 +1,5 @@
+%R Aarakocra
+%SR Bird-of-Paradise
+%SR Carrion
+%SR Finch
+
