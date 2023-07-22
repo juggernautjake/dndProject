@@ -2566,6 +2566,7 @@ const chooseStats = (race, subRace, npcClass, occupation, str, dex, con, int, wi
   }
 
   //Give racial ability score bonuses or penalties
+  //If statement to check race
   race = race.toLowerCase();
   if(race === 'aarakocra') {
     dex += 2;
