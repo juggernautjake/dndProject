@@ -2336,7 +2336,7 @@ const chooseStats = (race, subRace, npcClass, occupation, str, dex, con, int, wi
   occupation === 'noble' || 
   occupation === 'orator' || 
   occupation === 'squire' || 
-  occupation === 'viscount' || {
+  occupation === 'viscount') {
     str += stats[2];
     dex +=  statsArray[0];
     con +=  statsArray[3];
